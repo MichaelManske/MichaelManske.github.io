@@ -12,7 +12,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="./assets/capa.png">
+  <img alt="Imagem do Projeto" src="./assets/capa.png">
 </p>
 
 <br>
